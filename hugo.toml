@@ -1,0 +1,30 @@
+baseURL = "https://yourname.github.io/"
+title = "Zhen Chen"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 10
+
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.zh]
+    languageName = "中文"
+    weight = 1
+    contentDir = "content/zh"
+    [languages.zh.params]
+      homeInfoParams = { Title = "陈真 | Zhen Chen", Content = "高校教师 / 研究：MBSE、DRL 调度、低空具身智能" }
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    [languages.en.params]
+      homeInfoParams = { Title = "Zhen Chen", Content = "Research: MBSE, DRL-based Scheduling in IoT, Low-altitude Embodied Intelligence" }
+
+[params]
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
