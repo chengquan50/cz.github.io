@@ -14,7 +14,7 @@ defaultContentLanguageInSubdir = true
     weight = 1
     contentDir = "content/zh"
     [languages.zh.params]
-      homeInfoParams = { Title = "陈真 | Zhen Chen", Content = "高校教师 / 研究：MBSE、DRL 调度、低空具身智能" }
+      homeInfoParams = { Title = "陈真 | Zhen Chen", Content = "高校教师 / [研究方向 (Research)](/research) ：MBSE、DRL 调度、低空具身智能" }
     
     [languages.zh.menu]
       [[languages.zh.menu.main]]
