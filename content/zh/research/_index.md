@@ -6,7 +6,9 @@ title: "研究方向"
 
 
 
-\## 博士期间与当前兴趣
+## 博士期间与当前兴趣
+
+![Research Directions](/images/research_directions.png)
 
 
 
